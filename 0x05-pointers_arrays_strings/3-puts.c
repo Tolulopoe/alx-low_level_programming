@@ -35,4 +35,3 @@ void _puts(char *str)
 
 	_putchar('\n');
 }
->>>>>>> ec4a568c52da223c7692d52d6c7bd51aa22ec966
