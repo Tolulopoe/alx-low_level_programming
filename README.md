@@ -1,2 +1,1 @@
-# alx-low_level_programming
-alx-low_level_programming
+a 0x03-debugging readme
