@@ -7,6 +7,7 @@
   *
   * Return: void
   */
+
 void print_rev(char *s)
 {
 	int c = 0;
@@ -21,4 +22,3 @@ void print_rev(char *s)
 	}
 	_putchar('\n');
 }
-
